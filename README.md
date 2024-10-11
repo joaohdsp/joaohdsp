@@ -1,14 +1,24 @@
-<h1 align="center">Hi 👋, I'm João</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+# Hello, I'm João 👋
+A passionate developer from Brazil.
+
+Currently studying to complete my Bachelor's degree 
+
+in Information Systems at Universidade Tecnológica Federal do Paraná
 
 
-- 📱 You can reach me at **jhpainim@gmail.com**
+## 🖥️ Operating Systems:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joão henrique painim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão henrique painim" height="30" width="40" /></a>
-<a href="https://instagram.com/joao.painim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joao.painim" height="30" width="40" /></a>
-</p>
+![Static Badge](https://img.shields.io/badge/WINDOWS-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/MacOS-white?style=for-the-badge&logo=Apple&labelColor=black)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🔊🔨 Languages and Tools:
+
+![Static Badge](https://img.shields.io/badge/-blue?style=for-the-badge&logo=c&labelColor=blue) ![Static Badge](https://img.shields.io/badge/JAVA-orange?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&labelColor=white) ![Static Badge](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&labelColor=white) ![Static Badge](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss&labelColor=white) ![Static Badge](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=createreactapp&labelColor=white)
+
+## 🛠️ IDE:
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📱 Reach me at:
+
+![Static Badge](https://img.shields.io/badge/INSTAGRAM-white?style=for-the-badge&logo=instagram&labelColor=white) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-henrique-painim-118ba82a7/) ![Static Badge](https://img.shields.io/badge/gmail%3A%20jhpainim%40gmail.com-red?style=for-the-badge&logo=gmail&labelColor=white)
+
