@@ -12,7 +12,8 @@ in Information Systems at Universidade Tecnológica Federal do Paraná
 
 ## 📝🔨 Languages and Tools:
 
-![Static Badge](https://img.shields.io/badge/-blue?style=for-the-badge&logo=c&labelColor=blue) ![Static Badge](https://img.shields.io/badge/JAVA-orange?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&labelColor=white)  ![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&labelColor=white)
+![Static Badge](https://img.shields.io/badge/-blue?style=for-the-badge&logo=c&labelColor=blue) ![Static Badge](https://img.shields.io/badge/JAVA-orange?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&labelColor=black)
+ ![Static Badge](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&labelColor=white)  ![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&labelColor=white)
  ![Static Badge](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&labelColor=white) ![Static Badge](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss&labelColor=white) ![Static Badge](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=createreactapp&labelColor=white)
 
 ## 🛠️ IDE:
