@@ -19,5 +19,5 @@ in Information Systems at Universidade Tecnológica Federal do Paraná
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ## 📱 Reach me at:
-[![Static Badge](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhpainim@gmail.com) [![Static Badge](https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/joao.painim/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-henrique-painim-118ba82a7/)
+[![Static Badge](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhpainim@gmail.com) [![Static Badge](https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/joaohdsp/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-henrique-painim-118ba82a7/)
 
